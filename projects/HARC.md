@@ -3,7 +3,7 @@ layout: project
 type: project
 image: file:///Users/tweetys-macbook/Desktop/SOA/HARC/2024/media%202/DSC_0144.JPG
 title: "HARC"
-date: 2024
+date: 2024-01-03
 published: true
 labels:
   - Research
