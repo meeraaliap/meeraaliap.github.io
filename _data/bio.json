@@ -1,113 +1,63 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Aalia Pervaiz Meer",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/meeraaliap.png",
+    "email": "ameer@hawaii.edu",
+    "phone": "808-439-2408",
+    "website": "https://meeraaliap.github.io",
+    "summary": "I am a sophomore triple majoring in Accounting, Finance, and Management Information Systems from the Shidler College of Business at the University of Hawai'i at Mānoa. I am currently interning with the City and County's Budget and Fiscal Services division through the Po'okela Internship program. I expect to graduate in Spring 2026.",
+    "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawai'i" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "meeraaliap", "url": "http://github.com/meeraaliap" },
+      { "network": "linkedin", "username": "Aalia Meer", "url": "http://linkedin.com/in/aalia-pervaiz-meer" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Accounting" },
+    { "name": "Data Analytics" },
+    { "name": "Photography" },
+    { "name": "Reading and writing poetry" },
+    { "name": "Pilates" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Language",
+      "keywords": [ "French", "Urdu", "English"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Tools",
+      "keywords": [ "iMovie", "Canva", "Wordpress", "TouchNet", "Microsoft Suite" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Accounting, Finance, Management Information Systems (expected Spring, 2026)",
+      "studyType": "BBA.",
+      "startDate": "2022-08",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": ["ITM 352","ACC 210","BUS 311","ACC 200"]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "School of Accountancy, Shidler College of Business",
+      "position": "Clerical/Fiscal Assistant",
+      "startDate": "2022-11",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Provide administrative support to the School of Accountancy as necessary",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provide administrative support for the Hawaii Accounting Research Conference (HARC) and the Hawaii Accounting Research Doctoral Institute (HARDI)",
+        "Revamped recruitment strategies for the Humanities Integrated Program with Social Sciences (HIPSS)"
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "organization": "Accounting Club at UH Mānoa",
+      "website": "https://acuhmanoa.org",
+      "position": "Director of Professional Development",
+      "startDate": "Spring 2023",
+      "endDate": "present"
     }
   ],
   "references": [
