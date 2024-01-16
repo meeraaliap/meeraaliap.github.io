@@ -12,6 +12,4 @@ labels:
 summary: "An annual research conference held at the Shidler College of Business."
 ---
 
-<img class="img-fluid" src="..img/HARC.JPG">
-
 Conceived in 2016, HARC stands for the Hawaii Accounting Research Conference. HARC is an annual accounting research conference hosted by the School of Accountancy (SOA) on Jan 3, 4, and 5. It serves as a platform for accounting researchers from all over the world to present,discuss, and gain feedback on their research work. This year, we had an approximate 40% increase in conference paper acceptances- a total of 324 attendees- our highest yet!
