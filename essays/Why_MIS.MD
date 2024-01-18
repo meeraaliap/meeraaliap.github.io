@@ -11,7 +11,7 @@ labels:
   - Management Information Systems
 ---
 
-*Why Did I Choose to Pursue MIS?*
+# Why Did I Choose to Pursue MIS?
 
 This is a question I get asked a lot, especially by friends and family because I "already had two majors" and they did not see me as "the type" to pursue a rather technical subject. To be completely honest, I had not planned on the major or even taking ITM 352, until registration for the Spring 2024 semester had opened. While I wish I had a more elaboarte story or reasoning behind my decsion, the  reason I chose to take a step in pursuing the MIS major had more to do with practicality than anything else. 
 
