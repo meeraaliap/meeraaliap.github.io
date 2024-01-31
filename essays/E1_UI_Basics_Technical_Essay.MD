@@ -38,5 +38,5 @@ This WOD was one of the more challenging ones for me since we made more extensiv
 
 The key takeaways from this lab include:
 Learning to be okay with referencing the screencast after a failed/struggling attempt 
-Going through the additional handouts/readings and taking notes on them to understand each of the functions available and what they can do 
+Going through the additional handouts/readings and taking notes on them to understand each of the functions available and what they can do. 
  </p>
