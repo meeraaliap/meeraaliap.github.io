@@ -14,7 +14,7 @@ labels:
 ---
 
 # WOD: Invoice 1
-<p> For the Invoice 1 WOD, I was instructed to generate a sales invoice; making use of variables instead of hardcoding values. Moreover, the sales invoice was to include a pre-tax subtotal, the sales tax amount, and the grand total. For the specifics, please see the original instructions <a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html"_blank">here.</a></p> 
+<p> For the Invoice 1 WOD, I was instructed to generate a sales invoice; making use of variables instead of hardcoding values. Moreover, the sales invoice was to include a pre-tax subtotal, the sales tax amount, and the grand total. For the specifics, please see the original instructions <a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html"_blank">here</a></p> 
 
 # Reflection
 <p> Having gotten over the perfectionism issues I was struggling with in the first several WODs and Labs, the actual recording process went quite smoothly- taking only 2 attempts (due to DNF-ing the first one). I noticed I wasn't as hung up over minor details like going quiet for a few minutes, stumbling over my words every now and then, or even the sound of my voice in the mic (as I had an allergy flare up the night I was recording it). Ironically,despite the fact it took me several hours to complete it, I felt quite accomplished after this WOD. 
