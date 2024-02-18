@@ -33,5 +33,6 @@ The major takeaways for me from this WOD were:
 
 <p>The importance of keeping up with the course. I fell behind in theses last few modules because of ongoing health issues and issues with time management as a result. I realize how interdependent the labs/WODs are and how missing one means missing others for weeks on end; not to mention how quickly the work piles up. Over this long weekend, I hope to catch up and possibly get ahead to allow for instances where I may not have as much time, or not be in the best of health.</p> 
 <p><b><i>I know I cannot plan for health issues, but I believe that by consistently trying to be a little ahead on things, I'll avoid instances where the amount of work to do is overwhelming. I'd like to think that if the work left to do were minimal or menial, even if I wasn't well, I'd still be able to get it done since "the majority is done." </i></b></p>
-
+<p></p>
+<p></p>
 <p><b>While this course is challenging me on so many levels and so many areas, I know that I am gaining more than just technical knowledge out of this course. Rather, I feel that on a personal level at least, I am gaining a lot of valuable expereince regarding time management and am building my resilience. I hope that by the end of the course, I am able to say that I am a lot stronger of an indiviudal than I was when I walked in.</b></p>
