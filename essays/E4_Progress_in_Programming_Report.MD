@@ -1,16 +1,15 @@
-
 ---
 layout: essay
 type: essay
 title: "E4: Progress in Programming Report"
-date: 2024-04-11
+date: 2024-04-13
 published: true
 labels:
   - E4
   - WODs
   - HTML/CSS
   - Javascript Expressions
-  - Assignemnt 1
+  - Assignment 1
 ---
 
 # My programming skills have greatly improved in the following ways:
