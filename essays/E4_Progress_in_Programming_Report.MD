@@ -18,13 +18,13 @@ labels:
 # I need to work on the following to improve my programming skills:
 <p>To further improve my programming skills, I recognize the need to enhance several aspects of my learning process. First, I need to become more adept at asking for help, which includes knowing how to frame my questions effectively and understanding exactly what to ask. Additionally, I am working on maintaining a positive outlook and not viewing challenges as personal flaws when I encounter difficulties in completing tasks. Lastly, I am focusing on making better use of available resources, such as ChatGPT and Professor Port, to support my development and provide guidance as I navigate through complex programming issues.</p>
 
-#I have learned a lot from doing WODs and I can do them without copying the screencast:
+# I have learned a lot from doing WODs and I can do them without copying the screencast:
 <p>While I have learned a lot from doing Workouts of the Day (WODs), my experience has been mixed. On one hand, I have gained a better understanding of the logic side of programming through these exercises. On the other hand, the pressure to complete them under a time constraint often proved challenging. This sometimes led me to resort to using the screencast at the last minute in order to finish the exercise within the allotted time. Despite these challenges, the WODs have been a valuable learning tool, enhancing my problem-solving skills in programming.</p>
 
-#The labs have help me learn and I am able to complete them with confidence:
+# The labs have help me learn and I am able to complete them with confidence:
 <p>The labs have been instrumental in my learning process, helping me to gain a basic understanding of key concepts and allowing me to complete them with confidence, all within a safe and nurturing environment. While the pace of the labs can sometimes be fast, making them challenging to follow at times, this supportive setting helps mitigate the pressure and encourages thorough learning.</p>
 
-#I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:
+# I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:
 <p>My experience with Assignment 1 was highly educational, and I feel pretty prepared to tackle Assignment 2. Through the completion of Assignment 1, I was able to observe firsthand the various aspects of the course that we discussed throughout the semester and how they interconnect. This experience has helped everything come full circle, deepening my understanding of the subject matter and enhancing my readiness to engage with new challenges in the next assignment.</p>
 
 # I think the class can be improved to help my learning in the following ways:
