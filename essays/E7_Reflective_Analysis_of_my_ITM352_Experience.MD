@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E5: Reflecting on Assignment 2 Technical Essay"
+title: "E7: Reflective Analysis of my ITM 352 Experience"
 date: 2024-05-05
 published: true
 labels:
