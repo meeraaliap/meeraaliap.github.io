@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "E5: Reflecting on Assignment 2 Technical Essay"
+date: 2024-05-05
+published: true
+labels:
+  - E7
+  - Asking for help
+  - ITM352
+---
+
 # 1. ITM 352 has the following goals. For each of the above goals, explain what stands out in your class experience that indicates you have met that goal.
 <p></p>
 
